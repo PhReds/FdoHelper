@@ -1,0 +1,19 @@
+messages:
+  generali:
+    no-permessi: "&cNon hai il permesso."
+    sintassi-errata-fdo: "&cSintassi Errata: /fdo <sotto-comando>"
+    sintassi-errata-jail: "&cSintassi Errata: /jail <sotto-comando>"
+  jail:
+    creazione: "&aJail creata con successo!"
+    rimozione: "&cJail rimossa con succezzo"
+    jail-inesistente: "&cQuesta jail non esiste!"
+    jail-esistente: "&cQuesta jail esiste già!"
+    utente-jailato: "&aUtente mandato in cella con successo!"
+    utente-jailato-mess: "&cSei stato messo in cella!"
+  identikit:
+    creazione: "&aIdentikit creato con successo!"
+    rimozione: "&cIdentikit rimosso con successo!"
+    identikit-inesistente: "&cQuesto Identikit non esiste"
+    identikit-esistente: "&cQuesto Identikit esiste già!"
+  tablet-fdo:
+    fdologin-passworderrata: "&cPassword Errata!"

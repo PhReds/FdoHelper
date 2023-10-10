@@ -1,0 +1,11 @@
+name: FdoHelper
+version: '${project.version}'
+main: me.phredss.fdohelper.FdoHelper
+api-version: '1.16'
+depend: [ItemsAdder]
+commands:
+  jail:
+    description: Comando jail
+    aliases: [j]
+  fdo:
+    description: Comando Fdo

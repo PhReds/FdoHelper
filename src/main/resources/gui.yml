@@ -1,0 +1,22 @@
+gui:
+  tablet-menu:
+    nome-gui: "&9Fdo Menu"
+    items:
+      arresta:
+        materiale: "BARRIER" #PRENDERE DALLA LISTA SPIGOT
+        nome: "&3Arresta Persona"
+        lore:
+          - "&9Clicca per"
+          - "&9Arrestare una persona"
+      libera:
+        materiale: "STRUCTURE_VOID" #PRENDERE DALLA LISTA SPIGOT
+        nome: "&cLibera Detenuto"
+        lore:
+          - "&4Clicca per liberare"
+          - "&4Un detenuto"
+      identikit:
+        materiale: "PAPER" #PRENDERE DALLA LISTA SPIGOT
+        nome: "&aIdentikit"
+        lore:
+          - "&2Clicca per aprire"
+          - "&2Il menu Identikit"

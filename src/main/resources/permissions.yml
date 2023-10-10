@@ -1,0 +1,5 @@
+permissions:
+  fdo:
+    permesso: "fdohelper.fdo"
+  staff:
+    permesso: "fdohelper.staff"
